@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc 
+
+# Local data files
+data/expeses.json
+
+
+git init 
+git add .
+git commit -m "Initial commit: expense tracker CLI"
